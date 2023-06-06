@@ -22,6 +22,6 @@ Now subtract 2 and don't type your nubmer in, just  press enter when ready.
 
 The answer is 46
 
-you can also run :- go build
+
 
 
